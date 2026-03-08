@@ -1,1 +1,1 @@
-console.log("wrong code");
+console.log("Hello, World!");
